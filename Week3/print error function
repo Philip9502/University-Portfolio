@@ -1,0 +1,5 @@
+printError()
+> {
+>   echo -e  "\033[31mError:\033[0m$1"
+> }
+
