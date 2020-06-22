@@ -1,3 +1,5 @@
 # University-Portfolio
-Scripts as part of university course work
+Scripts as part of university course work.
 Here are all 6 weeks worth of content
+Student name Philip Malherbe
+Student number 10502479
